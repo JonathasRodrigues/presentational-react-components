@@ -1,5 +1,8 @@
 # React Presentational React Components
 
+#live demo
+https://jonathasrodrigues.github.io/presentational-react-components
+
 > Boilerplate for reusable and declouped presentational react components.
 
 The main idea of this project was based on develop decoupled components in a isolated environment. We don't need to use an entire application to build our components, we just need some place to run and test them.
@@ -7,7 +10,7 @@ The main idea of this project was based on develop decoupled components in a iso
 ## Getting Started
 
 ### Installation
-**You’ll need to have Node >= 4 on your machine.** 
+Node >= 4 
 npm install
 
 ### Folders and Files
